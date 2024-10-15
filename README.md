@@ -11,3 +11,6 @@ Then in the back-end of the application (inside the server folder), the host mac
 # How to run the application on a host machine
 To run the entire application, the host machine must be in the server directory and use the command "npm run dev" to start the
 application.
+
+## Acknowledgments
+I’d like to express my gratitude to our team leader, Melvin Lugo, for giving me the permission to take ownership of this project.
